@@ -1,2 +1,2 @@
-# xweichang.github-io
+# xweichang.github.io
 Hexo Blog
